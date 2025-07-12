@@ -2,6 +2,8 @@
 
 Este proyecto está diseñado para integrar modelos de **predicción de mercado** utilizando **SVM** (Support Vector Machine), **LSTM** (Long Short-Term Memory), y **análisis de noticias**. Además, se implementa un módulo de **estrategias de inversión** y **backtesting** para evaluar el rendimiento de las estrategias generadas. 
 
+Ingresa desde: https://mhomvbnv.manus.space/
+
 ## Descripción General
 
 El sistema permite generar predicciones de precios y señales de trading utilizando datos históricos y diversas fuentes de información. Las señales generadas se combinan para formar recomendaciones de inversión que luego se evaluarán mediante un proceso de backtesting.
